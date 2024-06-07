@@ -1,1 +1,1 @@
-# Merjenje_Svetilnosti
+Osvetljenost (svetilnost) je merilo količine svetlobe, ki pade na določeno površino, izraženo v luksih (lx). Za merjenje osvetljenosti uporabljamo lux senzor, ki je povezan z Arduinom. Rezultate meritev lahko prikažemo na LCD zaslonu, kar omogoča enostavno spremljanje svetlobnih pogojev v realnem času.
