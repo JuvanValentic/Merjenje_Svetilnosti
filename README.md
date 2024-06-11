@@ -12,4 +12,4 @@ Ohišje merilne naprave	1x
 # KOSOVNICA: 
 | Uporabljen material | Št. kosov |
 |---|---|
-|
+| Arduino UNO R3 | 1 |
