@@ -7,7 +7,7 @@ Ohišje merilne naprave	1x
 
 # KOSOVNICA: 
 | Uporabljen material | Št. kosov | Opomba |
-|---|---|
+|---|---|---|
 | Arduino UNO R3 | 1x | Arduino Uno: enostavna mikrokrmilniška plošča |
 | BH1750 | 1x | BH1750: digitalni senzor svetlobe |
 | Protoboard | 1x | Protoboard: preizkusna plošča za vezja |
