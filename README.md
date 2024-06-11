@@ -8,3 +8,8 @@ Protoboard	1x
 Žice
 LCD 16x2	1x
 Ohišje merilne naprave	1x
+
+# KOSOVNICA: 
+| Uporabljen material | Št. kosov |
+|---|---|
+|
