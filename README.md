@@ -15,7 +15,7 @@ Ohišje merilne naprave	1x
 | LCD 16x2 | 1x | LCD 16x2: prikaz besedila, 16 vrstic |
 | Ohišje merilne naprave | 1x | Ohišje merilne naprave: zaščita, montaža, organizacija |
 
-##Izmerjena napaka:
+## Izmerjena napaka:
 Napaka ±1 LUX
 
 
