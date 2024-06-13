@@ -18,7 +18,7 @@ Ohišje merilne naprave	1x
 ## Izmerjena napaka:
 Napaka ±1 LUX
 
-##Komentar
+## Komentar
 Naprava mira svetilnost v LUX, meritve bi bile bolj natenčne če bi uporabljali BH1750 LUX sensor namesto photoresistorja,astetsko bi bilo lepše če bi bila škatla narejena iz črne plastike.
 
 
